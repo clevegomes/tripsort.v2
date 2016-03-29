@@ -15,9 +15,9 @@ transportation around the world. All these cards may be completely
 different from each other in terms of content, details, language etc But
 how ever all these cards must have an arrival and departure location. To
 make things simpler I assume that the arrival and departure locations
-will be names of cities only.
+are names of cities only.
 
-These stack of cards need to sorted only based on the arrival location
+These stack of cards need to be sorted only based on the arrival location
 and departure location. The sorted cards then need to be displayed to
 the user.
 
