@@ -27,29 +27,30 @@ command in the command prompt and displaying the result.
 Files
 -------------------
 
- doc
-    |----- [Documentation]
-    src
-    |----- lib
-    |      |----- triporg
-    |      |          |----- assets
-    |      |          |             |---- AirwaysBoardingCard.php 
-    |      |          |             |---- BcFactory.php 
-    |      |          |             |---- BusBoardingCard.php 
-    |      |          |             |---- GenericCard.php
-    |      |          |             |---- RailwayBoardingCard.php
-    |      |          |             |---- tripAbstract.php
-    |      |          |             |---- tripInterface.php
-    |      |          |----- modules
-    |      |          |             |---- boardingCard
-    |      |          |                              |---- BoardingCard.php
-    |      |          |----- utils
-    |      |          |             |---- traits
-    |      |                                   |----- SortOrderN2.php
-    test                                   
-    |----- TripSortTest.php
-    vendor                              
-    |----- [PhpUnit/Autoload files pulled in by composer]                           
+  *doc\
+  |----- \[Documentation\]\
+  src\
+  |----- lib\
+  | |----- triporg\
+  | | |----- assets\
+  | | | |---- AirwaysBoardingCard.php\
+  | | | |---- BcFactory.php\
+  | | | |---- BusBoardingCard.php\
+  | | | |---- GenericCard.php\
+  | | | |---- RailwayBoardingCard.php\
+  | | | |---- tripAbstract.php\
+  | | | |---- tripInterface.php\
+  | | |----- modules\
+  | | | |---- boardingCard\
+  | | | |--BoardingCard.php\
+  | | |----- utils\
+  | | | |---- traits\
+  | | |---SortOrderN2.php\
+  test\
+  |----- TripSortTest.php\
+  vendor\
+  |----- \[PhpUnit/Autoload files pulled in by composer\] *
+       
                                       
  
 
