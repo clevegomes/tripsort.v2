@@ -74,7 +74,7 @@ arrival locations.
 
 3.  Phpunit 3.7.21
 
-**Functionality **
+**Code Functionality**
 
 1.  Testing : The TripSortTest Class will test for
 
